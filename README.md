@@ -1,4 +1,4 @@
-# Proyecto Final: Página Web Interactiva
+# Proyecto Final: Marvel Shop
 
 ## Descripción
 
